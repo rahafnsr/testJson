@@ -1,0 +1,123 @@
+{
+    "status": "success",
+    "Message": "found it!",
+    "header": {
+        "toppar": {
+            "contact": [
+                {
+                    "icon": "whatsapp",
+                    "link": "09452365898"
+                },
+                {
+                    "icon": "email",
+                    "link": "halah.ah95@hotmail.com"
+                }
+            ],
+            "social": [
+                {
+                    "icon": "facebook",
+                    "link": "facebook.com"
+                },
+                {
+                    "icon": "instegram",
+                    "link": "instegram.com"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "twitter.come"
+                },
+                {
+                    "icon": "youtube",
+                    "link": "youtube.com"
+                },
+                {
+                    "icon": "snapchat",
+                    "link": "snaptest"
+                }
+            ]
+        },
+        "navbar": {
+            "logo": "logo.jpg",
+            "nav_items": [
+                {
+                    "title": "صدى الرياضة",
+                    "type": "sport",
+                    "dropdown": [
+                        {
+                            "id": 4,
+                            "title": "football"
+                        },
+                        {
+                            "id": 5,
+                            "title": "basketball"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Vollyball.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "صدى الخليج",
+                    "type": "golf",
+                    "dropdown": [
+                        {
+                            "id": 4,
+                            "title": "football"
+                        },
+                        {
+                            "id": 5,
+                            "title": "basketball"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Vollyball.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "عربي وعالمي",
+                    "type": "interArabic",
+                    "dropdown": [
+                        {
+                            "id": 4,
+                            "title": "football"
+                        },
+                        {
+                            "id": 5,
+                            "title": "basketball"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Vollyball.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "صحافة رياضية",
+                    "type": "sportPress",
+                    "dropdown": []
+                },
+                {
+                    "title": "نجوم الملاعب",
+                    "type": "stars",
+                    "dropdown": []
+                },
+                {
+                    "title": "تحقيقات",
+                    "type": "invest",
+                    "dropdown": []
+                }
+            ]
+        },
+        "news": [],
+        "slider": [
+            {
+                "image_url": "\\public\\images\\slider\\b5q1ewMJVI"
+            },
+            {
+                "image_url": "\\public\\images\\slider\\xalqrOc2XA"
+            }
+        ]
+    }
+}
