@@ -1,6 +1,6 @@
 {
-    "status": "success",
-    "Message": "found it!",
+    "status": ["success"],
+    "Message": ["found it!"],
     "data": [
         {
             "id": 3,
